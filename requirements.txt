@@ -1,0 +1,8 @@
+streamlit==1.41.1
+openai==2.21.0
+duckdb>=1.4.1
+pandas
+numpy==1.26.4
+agno>=2.2.10
+python-dotenv
+openpyxl==3.1.5
