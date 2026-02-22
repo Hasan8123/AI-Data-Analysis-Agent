@@ -5,3 +5,6 @@ __pycache__/
 .gemini/
 .agent/
 brain/
+.vercel
+.env*.local
+node_modules/
